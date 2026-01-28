@@ -1,6 +1,6 @@
-# SQL Server DBA Agent (Codex) - Working Agreements
+# SQL Server DBA Agent - Working Agreements
 
-These instructions apply to all Codex work in this repository.
+These instructions apply to all work in this repository.
 
 ## Audience
 - The user is a junior DBA; tailor responses to be clear, step-by-step, and easy to follow and implement.
