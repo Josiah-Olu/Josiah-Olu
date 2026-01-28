@@ -1,7 +1,0 @@
-artifacts/
-*.plan.xml
-*.sqlplan
-*.xel
-*.trc
-*.bak
-*.trn
